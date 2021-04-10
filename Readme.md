@@ -18,3 +18,6 @@ Search and play YouTube videos.
   -v, --version      Print version.
   --                 Stops interpreting the following arguments as options.
 ```
+
+## Packages
+There is an AUR package available: [yt](https://aur.archlinux.org/packages/yt/)
